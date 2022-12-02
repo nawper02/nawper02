@@ -1,4 +1,4 @@
-I like to make cool things with my fingers and a keyboard
+8
 
 <!---
 nawper02/nawper02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
